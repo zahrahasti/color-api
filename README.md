@@ -1,2 +1,2 @@
 # Basic CSS Colors
-# basic color 
+# Here is a full list of the CSS named colors as specified in CSS3
