@@ -1,5 +1,5 @@
 
-[
+{
     "colors":[
     {
      "name":"white",
@@ -70,4 +70,4 @@
      "name":"maroon",
      "hexCode":"#800000"
     }]
- ]
+}
