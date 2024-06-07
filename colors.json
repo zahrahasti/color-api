@@ -1,5 +1,6 @@
 
 [
+    "colors":[
     {
      "name":"white",
      "hexCode":"#FFFF"
@@ -31,7 +32,8 @@
     {
      "name":"Lime",
      "hexCode":"#00FF00"
-    },
+    }],
+    "tags":[
     {
      "name":"fuchsia",
      "hexCode":"#FF00FF"
@@ -67,5 +69,5 @@
     {
      "name":"maroon",
      "hexCode":"#800000"
-    }
+    }]
  ]
