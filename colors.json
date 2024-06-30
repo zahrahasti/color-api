@@ -1,6 +1,6 @@
 
 {
-    "colors":[
+    
     {
      "name":"white",
      "hexCode":"#FFFF"
@@ -20,7 +20,7 @@
     {
      "name":"blue",
      "hexCode":"#0000FF"
-    },
+    },M
     {
      "name":"Aqua",
      "hexCode":"#00FFFF"
@@ -32,15 +32,8 @@
     {
      "name":"Lime",
      "hexCode":"#00FF00"
-    }],
-    "tags":[
-    {
-     "name":"fuchsia",
-     "hexCode":"#FF00FF"
-    },
-    {
-     "name":"purple",
-     "hexCode":"#800080"
+    } 
+    e":"#800080"
     },
     {
      "name":"green",
@@ -50,24 +43,5 @@
      "name":"olive",
      "hexCode":"#808000"
     }
-    ,
-    {
-     "name":"yellow",
-     "hexCode":"#FFFF00"
-    }
-    ,
-    {
-     "name":"orange",
-     "hexCode":"#FFA500"
-    }
-    ,
-    {
-     "name":"red",
-     "hexCode":"#FF0000"
-    }
-    ,
-    {
-     "name":"maroon",
-     "hexCode":"#800000"
-    }]
+   
 }
