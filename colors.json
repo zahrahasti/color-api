@@ -20,7 +20,7 @@
     {
      "name":"blue",
      "hexCode":"#0000FF"
-    },M
+    }, 
     {
      "name":"Aqua",
      "hexCode":"#00FFFF"
@@ -29,19 +29,6 @@
      "name":"Teal",
      "hexCode":"#00FFFF"
     },
-    {
-     "name":"Lime",
-     "hexCode":"#00FF00"
-    } 
-    e":"#800080"
-    },
-    {
-     "name":"green",
-     "hexCode":"#008000"
-    },
-    {
-     "name":"olive",
-     "hexCode":"#808000"
-    }
+   
    
 }
